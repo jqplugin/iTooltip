@@ -10,7 +10,7 @@
 "version": "1.0.0",
 "author": {
 "name": "jQPlugin.net",
-"url": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs"
+"url": "http://www.jqplugin.net/"
 },
 "maintainers": [
 {
@@ -26,9 +26,9 @@
 }
 ],
 "bugs": "https://github.com/jqplugin/iTooltip/issues",
-"homepage": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
-"docs": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
-"download": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"homepage": "http://www.jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"docs": "http://www.jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"download": "http://www.jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
 "dependencies": {
 "jquery": ">=1.7"
 }
