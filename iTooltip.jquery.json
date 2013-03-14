@@ -1,0 +1,35 @@
+{
+"name": "iTooltip",
+"title": "iTooltip jQuery Plugin",
+"description": "iTooltip can be used to add tooltip functionalities on input and textarea elements.",
+"keywords": [
+"tooltip",
+"input-tooltip",
+"textarea-tooltip"
+],
+"version": "1.0.0",
+"author": {
+"name": "jQPlugin.net",
+"url": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs"
+},
+"maintainers": [
+{
+"name": "Mihai Matei",
+"email": "support@jqplugin.net",
+"url": "http://www.jqplugin.net/"
+}
+],
+"licenses": [
+{
+"type": "GPL",
+"url":"http://www.gnu.org/licenses/gpl.html"
+}
+],
+"bugs": "https://github.com/jqplugin/iTooltip/issues",
+"homepage": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"docs": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"download": "http://jqplugin.net/itooltip-jquery-plugin-tooltips-for-form-inputs",
+"dependencies": {
+"jquery": ">=1.7"
+}
+}
